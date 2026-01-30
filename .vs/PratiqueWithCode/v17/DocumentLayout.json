@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\testproject1_vu_avec-cedric\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|solutionrelative:testproject1_vu_avec-cedric\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\testproject1_vu_avec-cedric\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|solutionrelative:testproject1_vu_avec-cedric\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\testproject1_vu_avec-cedric\\customstacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|solutionrelative:testproject1_vu_avec-cedric\\customstacktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\testproject1_vu_avec-cedric\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|solutionrelative:testproject1_vu_avec-cedric\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\testproject1_vu_avec-cedric\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|solutionrelative:testproject1_vu_avec-cedric\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\testproject1_vu_avec-cedric\\testproject1_vu_avec-cedric.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42415E82-7FC6-4A62-BC14-2A4BCB19739D}|TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj|solutionrelative:testproject1_vu_avec-cedric\\testproject1_vu_avec-cedric.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\evaluationsamplecode\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\customstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\evaluationsamplecode\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\theom\\bureau\\mns\\3\u00E8me ann\u00E9e\\devops\\pratiquewithcode\\evaluationsamplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestProject1_vu_avec-cedric",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj",
+              "RelativeDocumentMoniker": "TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj",
+              "RelativeToolTip": "TestProject1_vu_avec-cedric\\TestProject1_vu_avec-cedric.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T15:36:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MathOperationsTests.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\MathOperationsTests.cs",
+              "RelativeDocumentMoniker": "TestProject1_vu_avec-cedric\\MathOperationsTests.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\MathOperationsTests.cs",
+              "RelativeToolTip": "TestProject1_vu_avec-cedric\\MathOperationsTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAArwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:37:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlFormatHelperTests.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\HtmlFormatHelperTests.cs",
+              "RelativeDocumentMoniker": "TestProject1_vu_avec-cedric\\HtmlFormatHelperTests.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\HtmlFormatHelperTests.cs",
+              "RelativeToolTip": "TestProject1_vu_avec-cedric\\HtmlFormatHelperTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:36:55.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1_vu_avec-cedric\\Test1.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\Test1.cs",
+              "RelativeToolTip": "TestProject1_vu_avec-cedric\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:36:45.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomStackTests.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\CustomStackTests.cs",
+              "RelativeDocumentMoniker": "TestProject1_vu_avec-cedric\\CustomStackTests.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\CustomStackTests.cs",
+              "RelativeToolTip": "TestProject1_vu_avec-cedric\\CustomStackTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:36:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1_vu_avec-cedric\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\TestProject1_vu_avec-cedric\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1_vu_avec-cedric\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:36:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HtmlFormatHelper.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:10:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\Reservation.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\Reservation.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\Reservation.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\Reservation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:09:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\Program.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\Program.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\Program.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T15:09:33.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\MathOperations.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\MathOperations.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\MathOperations.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:41:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomStack.cs",
+              "DocumentMoniker": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\CustomStack.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\CustomStack.cs",
+              "ToolTip": "C:\\Users\\theom\\Bureau\\MNS\\3\u00E8me ann\u00E9e\\DevOps\\PratiqueWithCode\\EvaluationSampleCode\\CustomStack.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\CustomStack.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T14:36:50.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
